@@ -1,5 +1,6 @@
 import { CountDownComponent } from "./countDownComponent";
 import "./globals.css";
+import { OurMoments } from "./ourMoments";
 import { TogetherComponent } from "./togetherComponent";
 
 export default function RootLayout({
@@ -12,6 +13,7 @@ export default function RootLayout({
       <body >{children}</body>
       <TogetherComponent/>
       <CountDownComponent/>
+      <OurMoments/>
     </html>
   );
 }
