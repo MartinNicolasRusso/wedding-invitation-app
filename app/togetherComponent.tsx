@@ -1,6 +1,6 @@
 export const TogetherComponent = () => {
   return (
-    <div className="w-auto h-[60%] flex justify-center items-center py-[7%]">
+    <div className="w-auto h-[60%] flex justify-center items-center py-[7%] bg-white">
         <div className=" flex flex-col mr-2">
             <h1 className="font-amalfi text-[25px] text-right mb-2">Lucre Buedieman</h1>
             <p className="text-right text-[15px] h-[120px] font-bodoni text-[#7A7A7A] italic tracking-wide">Pabli sana mis pensamientos. Descubriendo <br/>y respetando quien quiero ser. Es mi lugar <br/> en donde me siento en paz, segura y puede<br/> ser yo.</p>
