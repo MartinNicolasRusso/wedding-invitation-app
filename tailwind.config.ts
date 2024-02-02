@@ -16,7 +16,8 @@ const config: Config = {
       fontFamily:{
         garamond: "Cormorant Garamond",
         amalfi:"Amalfi Coast",
-        bodoni: "Bodoni Moda"
+        bodoni: "Bodoni Moda",
+        rufina: 'Rufina'
       },
     },
   },
