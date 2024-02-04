@@ -17,7 +17,9 @@ const config: Config = {
         garamond: "Cormorant Garamond",
         amalfi:"Amalfi Coast",
         bodoni: "Bodoni Moda",
-        rufina: 'Rufina'
+        rufina: 'Rufina',
+        duolos: 'Doulos SIL Compact',
+        times: 'That New Roman test'
       },
     },
   },

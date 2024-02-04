@@ -1,8 +1,10 @@
 import { CountDownComponent } from "./countDownComponent";
 import "./globals.css";
 import { OurMoments } from "./ourMoments";
-import { PicturesWedding } from "./picturesWedding";
+import { InstagramFilter } from "./instagramFilter";
 import { TogetherComponent } from "./togetherComponent";
+import { SloganPhrase } from "./sloganPhrase";
+import { ConfirmDate } from "./confirmDate";
 
 export default function RootLayout({
   children,
@@ -16,7 +18,9 @@ export default function RootLayout({
       <TogetherComponent/>
       <CountDownComponent/>
       <OurMoments/>
-      <PicturesWedding />
+      <InstagramFilter />
+      <SloganPhrase/>
+      <ConfirmDate/>
     </>
     </html>
   );
