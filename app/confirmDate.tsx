@@ -62,7 +62,7 @@ export const ConfirmDate = () => {
             d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"
           ></path>
         </svg>
-        <div className="flex flex-col w-[800px] min-h-[664px] mx-auto bg-white justify-center items-center border-solid border-4 mt-52 gap-5 p-[150px]">
+        <div className="flex flex-col w-[800px] min-h-[664px] mx-auto bg-white justify-center items-center border-solid border-4 mt-52 gap-5 p-[150px] mb-24">
           <h1 className="text-[#4B4B4B] font-garamond text-[37px] uppercase ">
             Confirmar asistencia
           </h1>

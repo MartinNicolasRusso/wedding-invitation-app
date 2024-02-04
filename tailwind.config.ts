@@ -19,7 +19,8 @@ const config: Config = {
         bodoni: "Bodoni Moda",
         rufina: 'Rufina',
         duolos: 'Doulos SIL Compact',
-        times: 'That New Roman test'
+        times: 'That New Roman test',
+        poppins:'Poppins'
       },
     },
   },
